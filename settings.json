@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Holub_SMP.aternos.me:17436",
+    "port": 17436,
     "version": "",
     "try-creative": false
   },
